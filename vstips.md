@@ -29,7 +29,7 @@
 	- Check *Format document on save* and *Remove and sort usings on save*.
 
 	
-## Mange tabs with keyboard
+## Manage tabs with keyboard
 
 - Cycling through windows: **Ctrl + Tab**.
 - Cycling through windows inversely: **Ctrl + Upper + Tab**.
